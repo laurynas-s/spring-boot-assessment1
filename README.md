@@ -1,4 +1,4 @@
-#Spring Boot Fundamentals - Assessments
+# Spring Boot Fundamentals - Assessment 1, Assessment 2
 
 ## Assessment 1
 Create a class, that do sum of 2 numbers. Create a test, inject class into test class and verify sum method.
