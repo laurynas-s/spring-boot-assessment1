@@ -22,9 +22,9 @@ cd .\spring-boot-assessment1\
 
 Program output should print:
 ```text
-[INFO] Running tutorial.laurynas.assessment1.DoSumTest
+[INFO] Running tutorial.laurynas.assessment1.sum.DoSumTest
 ...
-[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 s - in tutorial.laurynas.assessment1.DoSumTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 s - in tutorial.laurynas.assessment1.sum.DoSumTest
 [INFO]
 [INFO] Results:
 [INFO]
