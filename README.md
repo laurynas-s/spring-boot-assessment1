@@ -17,7 +17,7 @@ cd .\spring-boot-assessment1\
 
 # Run test:
 
-mvnw clean test
+./mvnw clean test
 ```
 
 Program output should print:
