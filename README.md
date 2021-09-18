@@ -22,9 +22,9 @@ cd .\spring-boot-assessment1\
 
 Program output should print:
 ```text
-[INFO] Running tutorial.laurynas.assessment1.DoSumTest
+[INFO] Running tutorial.laurynas.assessment1.sum.DoSumTest
 ...
-[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 s - in tutorial.laurynas.assessment1.DoSumTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 s - in tutorial.laurynas.assessment1.sum.DoSumTest
 [INFO]
 [INFO] Results:
 [INFO]
@@ -39,7 +39,7 @@ Program output should print:
 
 Create Jpa entity named Student with fields id, name, score. Create test to validate CRUD operations - create, get, update, delete.
 
-Assessment 1 is in [assessment-1] branch.
+Assessment 2 is in [assessment-2] branch.
 
 Do following actions to get and run assigment project:
 ```bash
