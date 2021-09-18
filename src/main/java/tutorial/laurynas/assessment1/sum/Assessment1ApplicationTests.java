@@ -1,4 +1,4 @@
-package tutorial.laurynas.assessment1;
+package tutorial.laurynas.assessment1.sum;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
